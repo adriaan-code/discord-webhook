@@ -1,0 +1,9 @@
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\bin\Debug\discord_spammer_webhook_by_adriaan_[v.1.1].exe.config
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\bin\Debug\discord_spammer_webhook_by_adriaan_[v.1.1].exe
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\bin\Debug\discord_spammer_webhook_by_adriaan_[v.1.1].pdb
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\obj\Debug\discord_spammer_webhook_by_adriaan_[v.1.1].csprojAssemblyReference.cache
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\obj\Debug\discord_spammer_webhook_by_adriaan__v._1._1_.Form1.resources
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\obj\Debug\discord_spammer_webhook_by_adriaan__v._1._1_.Properties.Resources.resources
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\obj\Debug\discord_spammer_webhook_by_adriaan_[v.1.1].csproj.GenerateResource.cache
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\obj\Debug\discord_spammer_webhook_by_adriaan_[v.1.1].exe
+C:\Users\adria\Desktop\dc_web_gui\discord_spammer_webhook_by_adriaan_[v.1.1]\discord_spammer_webhook_by_adriaan_[v.1.1]\obj\Debug\discord_spammer_webhook_by_adriaan_[v.1.1].pdb
